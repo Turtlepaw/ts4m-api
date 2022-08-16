@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "esModuleInterop": true,
+        "strict": false,
+        "outDir": "./dist",
+        "removeComments": true,
+        "sourceMap": false,
+        "pretty": true
+    }
+}
