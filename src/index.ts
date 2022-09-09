@@ -1,5 +1,7 @@
 import express, { Request, Response } from 'express';
 import FileSystem from 'fs';
+import * as dotenv from 'dotenv'
+dotenv.config();
 import 'colors';
 import './db';
 const app = express();
